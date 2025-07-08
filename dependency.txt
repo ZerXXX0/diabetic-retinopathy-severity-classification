@@ -1,0 +1,11 @@
+Library Dependency:
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+tensorflow
+Pillow
+scikit-image
+scikit-learn
+tqdm
