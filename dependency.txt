@@ -1,11 +1,9 @@
 Library Dependency:
-numpy
-pandas
-matplotlib
-seaborn
-opencv-python
-tensorflow
-Pillow
-scikit-image
+torch
+timm
+os
+PIL
+torchvision
 scikit-learn
 tqdm
+roboflow
